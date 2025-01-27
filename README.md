@@ -13,7 +13,7 @@
 - **Languages:** Python, Swift, R
 - **Frameworks & Tools:** Xcode, Firebase, TensorFlow
 - **Databases:** Firebase, SQLite
-- **Interests:** Mobile App Development, AI/ML, Ethical Hacking
+- **Interests:** Mobile App Development, AI/ML, Ethical Hacking, Agricultural Engineering and Nanotechnology
 
 ---
 
