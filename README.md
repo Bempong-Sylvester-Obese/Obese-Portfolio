@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, Swift, R
+- **Languages:** Python, Swift, JavaScript, HTML, CSS,
 - **Frameworks & Tools:** Xcode, Firebase, TensorFlow
 - **Databases:** Firebase, SQLite
 - **Interests:** Mobile App Development, AI/ML, Ethical Hacking, Agricultural Engineering and Nanotechnology
@@ -19,7 +19,7 @@
 
 ### 🚀 Projects:
 - **Obese Food**: A gamified nutrition tracker using image recognition 📱🍏
-- **Obese Farms Viability Checker**: A Python tool for evaluating land viability 🌾🖥️
+- **Obese Land Viability Checker**: A Python tool for evaluating land viability 🌾🖥️
 - **Bempong Chess Foundation Website**: A wordpress website that gives an overview of what we do at Bempong Chess Foundation♟️
 - **Trash Automated Filter Machine**: A protype that filters waste materials using Mindstorm Bots
 ---
