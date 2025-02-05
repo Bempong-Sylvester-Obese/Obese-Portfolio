@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python, Swift, JavaScript, HTML, CSS,
-- **Frameworks & Tools:** Xcode, Firebase, TensorFlow
+- **Frameworks & Tools:** Xcode, Firebase, TensorFlow, FLutterFlow
 - **Databases:** Firebase, SQLite
 - **Interests:** Mobile App Development, AI/ML, Ethical Hacking, Agricultural Engineering and Nanotechnology
 
